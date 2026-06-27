@@ -40,3 +40,6 @@ The architecture is split into three distinct phases:
    python -m venv venv
    source venv/Scripts/activate
    pip install -r requirements.txt
+
+
+   ![alt text](image.png)
