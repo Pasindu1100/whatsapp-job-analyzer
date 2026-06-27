@@ -1,0 +1,14 @@
+# Ignore the virtual environment
+venv/
+.env
+
+# Ignore raw data and downloaded assets
+data/
+*.zip
+*.txt
+*.jpg
+*.png
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
